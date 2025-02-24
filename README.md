@@ -20,9 +20,9 @@ Index
 
 2. **Logical Operators** (and, or, not), **Cycles** (While, For), **Statements** (if, elif, else)
 	
-3. **Lists**, **Operations with lists**, **Python libraries**
+3. **Lists**, **Operations with lists**, **Python libraries** (Random Library)
  
-4. **Matplotlib Library**, **Examples** (Rock-Paper-Scissors, Ballistics, Monthly Savings/Expenses)
+4. **Matplotlib Library**, **Examples** (Rock-Paper-Scissors, Ballistics (Math Library), Monthly Savings/Expenses)
 	
 5. **Request Library** (urls), **Examples** (Hangman, Class Register, Quiz Game, Area calculator)
 	
