@@ -28,7 +28,7 @@ Index
 	
 6. **Pandas Library** (Pokemon dataset analysis), **Examples** (Connect Four, Physics Simulations [Bouncing Ball, Refraction])
 
-7. **Projects with Random Package** (Coin toss, Random dice, Sum of random dices results, Value of Pi though freccette game as a MonteCarlo simulation) , **TextAnalysis** (WordCloud)
+7. **Random Simulations** (Coin Toss, Dice Rolls, Monte Carlo π), **Text Analysis** (Word Cloud)
 	
 8. **Networkx Library**, **Network theory essentials** (Building a network, Centrality Measures, Network Analysis, Epidemic Models) 
 
