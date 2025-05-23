@@ -26,10 +26,12 @@ Index
 	
 5. **Request Library** (urls), **Examples** (Hangman, Class Register, Quiz Game, Area calculator)
 	
-6. **Pandas Library** (Pokemon dataset analysis), **Examples** (Connect Four, Physics Simulations [Bouncing Ball, Refraction], WordCloud and Text Analysis)
-	
-7. **Networkx Library**, **Network theory essentials** (Building a network, Centrality Measures, Network Analysis, Epidemic Models) 
+6. **Pandas Library** (Pokemon dataset analysis), **Examples** (Connect Four, Physics Simulations [Bouncing Ball, Refraction])
 
-8. **Students' Oral Presentation** (Personal Projects)
+7. **Projects with Random Package** (Coin toss, Random dice, Sum of random dices results, Value of Pi though freccette game as a MonteCarlo simulation) , **TextAnalysis** (WordCloud)
+	
+8. **Networkx Library**, **Network theory essentials** (Building a network, Centrality Measures, Network Analysis, Epidemic Models) 
+
+9. **Students' Oral Presentation** (Personal Projects)
         
         
